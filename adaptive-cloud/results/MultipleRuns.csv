@@ -1,0 +1,13 @@
+Type,Simulation,case,tau_setup,lossValue,predictionAccuracy,avg_tau,stddev_tau,avg_each_local,stddev_each_local,avg_each_global,stddev_each_global,avg_betaAdapt,stddev_betaAdapt,avg_deltaAdapt,stddev_deltaAdapt,avg_rhoAdapt,stddev_rhoAdapt,total_time_recomputed
+distributed,0,0,-1,0.25166435,0.930600003,13.91044776,4.115044805,0.021037503,0.004021764,0.132337183,0.055162301,56.0034974,12.62808948,2.111661476,0.345539178,0.609914329,0.442539889,12.51458359
+distributed,0,0,1,1.356567442,0.640499999,1,0,0.021306768,0.006378383,0.144259627,0.04599493,nan,nan,nan,nan,nan,nan,5.298124638
+distributed,0,0,2,0.819943559,0.798500002,2,0,0.020751673,0.005545866,0.134181479,0.054143891,nan,nan,nan,nan,nan,nan,5.621914404
+distributed,0,0,3,0.590112785,0.852299999,3,0,0.021264399,0.004639344,0.140178354,0.057000037,nan,nan,nan,nan,nan,nan,6.527089595
+distributed,0,0,5,0.431153677,0.888500001,5,0,0.020943045,0.004012038,0.124541858,0.045778068,nan,nan,nan,nan,nan,nan,7.336226638
+distributed,0,0,7,0.348461302,0.909500002,7,0,0.020371856,0.00301747,0.140069774,0.052573745,nan,nan,nan,nan,nan,nan,9.045528613
+distributed,0,0,10,0.283775615,0.9214,10,0,0.020314721,0.002831283,0.129720171,0.054054785,nan,nan,nan,nan,nan,nan,10.65175612
+distributed,0,0,20,0.207730349,0.942100003,19.85309735,4.382414352,0.019759575,0.001746398,0.126723271,0.047644592,nan,nan,nan,nan,nan,nan,15.04532114
+Type,Simulation,case,tau_setup,lossValue,predictionAccuracy,avg_tau,stddev_tau,avg_each_local,stddev_each_local,avg_each_global,stddev_each_global,avg_betaAdapt,stddev_betaAdapt,avg_deltaAdapt,stddev_deltaAdapt,avg_rhoAdapt,stddev_rhoAdapt,total_time_recomputed
+distributed,0,0,-1,0.556917693,0.861099999,14.6,5.970762095,0.018524865,0.004274447,0.135183242,0.060994078,49.10525692,10.50268724,2.166548286,0.320397777,0.898256691,0.656761589,3.653342758
+,,,,,,,,,,,,,,,,,,
+,,,,0.538480752,0.860500001,,,,,,,,,,,,,75.69388749
